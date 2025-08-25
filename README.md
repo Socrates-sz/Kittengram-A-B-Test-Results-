@@ -44,6 +44,3 @@ Based on the A/B test results, we observed a significant impact on both key metr
 2.  **Monitor in Production**: Given the generated nature of the dataset, it is critical to implement a robust monitoring system for both CTR and DAU after the feature's full launch. This will confirm if the positive results are replicated in a real-world environment.
 
 
-## Python Code
-
-You can see the code by clicking here: 
